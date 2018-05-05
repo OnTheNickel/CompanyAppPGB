@@ -21,7 +21,6 @@
 	<gap:platform name="winphone" />
 	
 	<!-- MULTI-PLATFORM -->
-	<preference name='phonegap-version' value='cli-5.1.1' />
 	
 	<preference name="orientation" value="default" /> <!-- landscape, portrait -->
 
