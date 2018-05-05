@@ -109,7 +109,7 @@
 
 	<!-- Plugins enable device-specific native funtionality. See online docs for more -->
 	<!-- PhoneGap Build repository example: -->
-	<gap:plugin name="org.apache.cordova.contacts" source="pgb" version="0.2.13" />
+	
 
 	<!-- NPM repository example: -->
 	<gap:plugin name="cordova-plugin-camera" source="npm" version="1.2.0" />
